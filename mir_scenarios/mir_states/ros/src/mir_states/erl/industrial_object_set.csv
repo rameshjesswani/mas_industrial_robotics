@@ -1,0 +1,14 @@
+Symbolic Description,Class
+Bearing_Box,component
+Bearing,component
+F20_20_G,Profile
+F20_20_B,Profile
+S40_40_G,Profile
+S40_40_B,Profile
+M20_100,Profile
+R20,Plastic
+Motor,component
+Axis,component
+Distance_Tube,component
+M20,Nut
+M30,Nut
